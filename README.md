@@ -13,9 +13,8 @@ exception of the drum kit.
 
 I used the following Renoise tools:
 
-	* http://www.renoise.com/tools/resynth
-	* http://www.renoise.com/tools/scale-finder
-
+ * <http://www.renoise.com/tools/resynth>
+ * <http://www.renoise.com/tools/scale-finder>
 
 
   [1]: http://www.renoise.com
